@@ -1,8 +1,8 @@
 ## Victoria Mazo
 
-Deep Learning Researcher
+**Deep Learning Researcher
 
-Zebra Medical Vision
+Zebra Medical Vision**
 
 __________________________________________
 
