@@ -1,4 +1,4 @@
-## Victoria Mazo, PhD    [[CV](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/1610.08613.pdf)]
+## Victoria Mazo, PhD    [[CV](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/CV - Victoria Mazo.pdf)]
 
 **Deep Learning Researcher**
 
