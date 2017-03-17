@@ -10,16 +10,20 @@ _victoria.mazo@zebra-med.com_
 
 __________________________________________
 
+
+
 I develop applications for detection of pathologies in medical images using Deep Learning technologies. My current research focus involves Semantic Segmentation and Generative Adversarial Networks. Previously I developed and implemented Face Liveness Detection, Image Captioning, Semantic Similarity and Sentiment Analysis. 
 
 I hold PhD, M.Sc. and B.Sc. degrees in Physics and M.Sc. in Financial Mathematics.
+
+
 
 __________________________________________
 
 
 ### Papers:
 
-**Deep Learning**
+_Deep Learning_
 
 V. Mazo, I. Tamir, E. Toledano and E. Elnekave
 "Recurrent Fully Convolutional DenseNet for Bronchiectasis Detection in CT Imaging",
@@ -29,7 +33,7 @@ V. Mazo, I. Tamir, E. Toledano and E. Elnekave
 "Ground Glass Opacity Detection Using Fully Convolutional Neural Networks",
 Submitted to MICCAI (2017)
 
-**Physics**
+_Physics_
 
 V. Mazo, E. Shimshoni , C.-W. Huang, S. Carr and H.A. Fertig "Helical quantum Hall edge modes in bilayer graphene: a realization of quantum spin-ladders", Physica Scripta, Vol. 2015, T165 (2015)
 
