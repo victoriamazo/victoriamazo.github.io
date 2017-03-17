@@ -1,12 +1,14 @@
 ## Victoria Mazo, PhD    
 
-[[CV](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/CV - Victoria Mazo.pdf)] [[LinkedIn](https://www.linkedin.com/in/victoria-mazo-phd-72801b15/)]
+
 
 **Deep Learning Researcher**
 
 [**Zebra Medical Vision**](zebra-med.com)
 
 _victoria.mazo@zebra-med.com_
+
+[[CV](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/CV - Victoria Mazo.pdf)] [[LinkedIn](https://www.linkedin.com/in/victoria-mazo-phd-72801b15/)]
 
 
 
