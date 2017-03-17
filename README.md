@@ -17,6 +17,8 @@ __________________________________________
 
 ## Papers:
 
+**Deep Learning**
+
 V. Mazo, I. Tamir, E. Toledano and E. Elnekave
 "Recurrent Fully Convolutional DenseNet for Bronchiectasis Detection in CT Imaging",
 Submitted to ICML (2017)
@@ -24,6 +26,8 @@ Submitted to ICML (2017)
 V. Mazo, I. Tamir, E. Toledano and E. Elnekave
 "Ground Glass Opacity Detection Using Fully Convolutional Neural Networks",
 Submitted to MICCAI (2017)
+
+**Physics**
 
 V. Mazo, E. Shimshoni , C.-W. Huang, S. Carr and H.A. Fertig "Helical quantum Hall edge modes in bilayer graphene: a realization of quantum spin-ladders", Physica Scripta, Vol. 2015, T165 (2015)
 
