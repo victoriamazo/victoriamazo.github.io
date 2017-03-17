@@ -4,6 +4,8 @@
 
 **Zebra Medical Vision**
 
+victoria.mazoi@zebra-med.com
+
 [CV](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/1610.08613.pdf)
 
 __________________________________________
