@@ -1,4 +1,4 @@
-## Victoria Mazo    
+## Victoria Mazo, PhD    
 
 **Deep Learning Researcher**
 
@@ -15,7 +15,7 @@ I hold PhD, M.Sc. and B.Sc. degrees in Physics and M.Sc. in Financial Mathematic
 __________________________________________
 
 
-## Papers:
+### Papers:
 
 **Deep Learning**
 
