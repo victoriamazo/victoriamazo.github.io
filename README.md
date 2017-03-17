@@ -35,12 +35,12 @@ Submitted to MICCAI (2017)
 
 _Physics_
 
-V. Mazo, E. Shimshoni , C.-W. Huang, S. Carr and H.A. Fertig "Helical quantum Hall edge modes in bilayer graphene: a realization of quantum spin-ladders", Physica Scripta, Vol. 2015, T165 (2015)
+[V. Mazo, E. Shimshoni , C.-W. Huang, S. Carr and H.A. Fertig "Helical quantum Hall edge modes in bilayer graphene: a realization of quantum spin-ladders", Physica Scripta, Vol. 2015, T165 (2015)](http://iopscience.iop.org/article/10.1088/0031-8949/2015/T165/014019/meta;jsessionid=419E8011ABB941DFC13C75476A38EF25.c1)
 
-V. Mazo, C.-W. Huang, E. Shimshoni, S. Carr and H.A. Fertig "Superfluid-insulator transition of quantum Hall domain walls in bilayer graphene", Phys. Rev. B 89, 121411 (2014)
+[V. Mazo, C.-W. Huang, E. Shimshoni, S. Carr and H.A. Fertig "Superfluid-insulator transition of quantum Hall domain walls in bilayer graphene", Phys. Rev. B 89, 121411 (2014)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.89.121411)
 
-V. Mazo, E. Shimshoni and H.A. Fertig "Collective edge modes of a quantum Hall ferromagnet in graphene", Phys. Rev. B 86, 125404 (2012)
+[V. Mazo, E. Shimshoni and H.A. Fertig "Collective edge modes of a quantum Hall ferromagnet in graphene", Phys. Rev. B 86, 125404 (2012)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.125404)
 
-V. Mazo, E. Shimshoni and H.A. Fertig "Edge states of bilayer graphene in the quantum Hall regime", Phys. Rev. B 84, 045405 (2011)
+[V. Mazo, E. Shimshoni and H.A. Fertig "Edge states of bilayer graphene in the quantum Hall regime", Phys. Rev. B 84, 045405 (2011)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.84.045405)
 
-V. Mazo and J. Sonnenschein "Non critical holographic models of the thermal phases of QCD", JHEP, Vol. 06, 091(2008)
+[V. Mazo and J. Sonnenschein "Non critical holographic models of the thermal phases of QCD", JHEP, Vol. 06, 091(2008)](http://iopscience.iop.org/article/10.1088/1126-6708/2008/06/091/meta)
