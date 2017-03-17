@@ -1,4 +1,4 @@
-## Victoria Mazo, PhD    [[CV](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/CV - Victoria Mazo.pdf)]
+## Victoria Mazo, PhD    [[CV](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/CV - Victoria Mazo.pdf)] [[LinkedIn](https://www.linkedin.com/in/victoria-mazo-phd-72801b15/)]
 
 **Deep Learning Researcher**
 
@@ -44,10 +44,3 @@ V. Mazo, E. Shimshoni and H.A. Fertig "Collective edge modes of a quantum Hall f
 V. Mazo, E. Shimshoni and H.A. Fertig "Edge states of bilayer graphene in the quantum Hall regime", Phys. Rev. B 84, 045405 (2011)
 
 V. Mazo and J. Sonnenschein "Non critical holographic models of the thermal phases of QCD", JHEP, Vol. 06, 091(2008)
-
-
-
-
-
-
-
