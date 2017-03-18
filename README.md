@@ -21,7 +21,7 @@ I develop applications for detection of pathologies in medical images using Deep
 
 I hold PhD, M.Sc. and B.Sc. degrees in Physics and M.Sc. in Financial Mathematics.
 
-Research interests: semantic segmentation, generative models, autonomious driving, augmented reality, biologically plausible modelling of brain 
+_Research interests_: semantic segmentation, generative models, autonomious driving, augmented reality, biologically plausible modelling of brain 
 
 
 
