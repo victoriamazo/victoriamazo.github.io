@@ -1,3 +1,5 @@
+![]({{site.baseurl}}/victoriamazo.github.io/DSCN9210.jpg)
+
 ## Victoria Mazo, PhD    
 
 
