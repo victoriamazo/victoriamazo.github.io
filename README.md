@@ -47,4 +47,4 @@ _Physics_
 
 [V. Mazo, E. Shimshoni and H.A. Fertig "Edge states of bilayer graphene in the quantum Hall regime", Phys. Rev. B 84, 045405 (2011)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.84.045405)
 
-[V. Mazo and J. Sonnenschein "Non critical holographic models of the thermal phases of QCD", JHEP, Vol. 06, 091(2008)](http://iopscience.iop.org/article/10.1088/1126-6708/2008/06/091/meta)
+[V. Mazo and J. Sonnenschein "Non critical holographic models of the thermal phases of QCD", JHEP, Vol. 06, 091(2008)](http://iopscience.iop.org/article/10.1088/1126-6708/2008/06/091/meta) [[CV](https://github.com/victoriamazo/2015_Helical quantum Hall edge modes in bilayer graphene a realization of quantum spin-ladders.pdf)]
