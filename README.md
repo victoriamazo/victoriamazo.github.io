@@ -1,4 +1,4 @@
-
+![]({{site.baseurl}}/victoriamazo.github.io/DSCN9210.jpg)
 
 ## Victoria Mazo, PhD    
 
@@ -11,7 +11,7 @@ _victoria.mazo@zebra-med.com_
 [[CV](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/CV - Victoria Mazo.pdf)] [[LinkedIn](https://www.linkedin.com/in/victoria-mazo-phd-72801b15/)]
 
 
-![]({{site.baseurl}}/victoriamazo.github.io/DSCN9210.jpg)
+
 __________________________________________
 
 
@@ -39,7 +39,7 @@ Submitted to MICCAI (2017)
 
 _Physics_
 
-[V. Mazo, E. Shimshoni , C.-W. Huang, S. Carr and H.A. Fertig "Helical quantum Hall edge modes in bilayer graphene: a realization of quantum spin-ladders", Physica Scripta, Vol. 2015, T165 (2015)](http://iopscience.iop.org/article/10.1088/0031-8949/2015/T165/014019/meta;jsessionid=419E8011ABB941DFC13C75476A38EF25.c1)
+[V. Mazo, E. Shimshoni , C.-W. Huang, S. Carr and H.A. Fertig "Helical quantum Hall edge modes in bilayer graphene: a realization of quantum spin-ladders", Physica Scripta, Vol. 2015, T165 (2015)](http://iopscience.iop.org/article/10.1088/0031-8949/2015/T165/014019/meta;jsessionid=419E8011ABB941DFC13C75476A38EF25.c1)  [[pdf](https://github.com/victoriamazo/Helical_quantum_Hall_edge_modes_ in_bilayer_graphenes.pdf)]
 
 [V. Mazo, C.-W. Huang, E. Shimshoni, S. Carr and H.A. Fertig "Superfluid-insulator transition of quantum Hall domain walls in bilayer graphene", Phys. Rev. B 89, 121411 (2014)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.89.121411)
 
@@ -47,4 +47,4 @@ _Physics_
 
 [V. Mazo, E. Shimshoni and H.A. Fertig "Edge states of bilayer graphene in the quantum Hall regime", Phys. Rev. B 84, 045405 (2011)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.84.045405)
 
-[V. Mazo and J. Sonnenschein "Non critical holographic models of the thermal phases of QCD", JHEP, Vol. 06, 091(2008)](http://iopscience.iop.org/article/10.1088/1126-6708/2008/06/091/meta) [[CV](https://github.com/victoriamazo/2015_Helical quantum Hall edge modes in bilayer graphene a realization of quantum spin-ladders.pdf)]
+[V. Mazo and J. Sonnenschein "Non critical holographic models of the thermal phases of QCD", JHEP, Vol. 06, 091(2008)](http://iopscience.iop.org/article/10.1088/1126-6708/2008/06/091/meta)
