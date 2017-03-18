@@ -28,6 +28,16 @@ _Research interests_: semantic segmentation, generative models, autonomious driv
 
 __________________________________________
 
+### Talks:
+
+[Generative Adversarial Networks](https://www.meetup.com/PyData-Tel-Aviv/events/238184051/)
+
+Object Detection [[slides](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/detection.pptx)]
+
+A Shallow Introduction To Deep Learning [[slides](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/intro.pptx)]
+
+
+__________________________________________
 
 ### Papers:
 
