@@ -33,11 +33,11 @@ _Deep Learning_
 
 V. Mazo, I. Tamir, E. Toledano and E. Elnekave
 "Recurrent Fully Convolutional DenseNet for Bronchiectasis Detection in CT Imaging",
-Submitted to ICML (2017)
+Submitted to ICML (2017) [[abstract](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/GGO.pdf)] 
 
 V. Mazo, I. Tamir, E. Toledano and E. Elnekave
 "Ground Glass Opacity Detection Using Fully Convolutional Neural Networks",
-Submitted to MICCAI (2017)
+Submitted to MICCAI (2017) [[abstract](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/Bronchiectasis.pdf)] 
 
 _Physics_
 
