@@ -4,7 +4,7 @@
 
 **Deep Learning Researcher**
 
-[**Zebra Medical Vision**](https://www.zebra-med.com/)
+[Zebra Medical Vision](https://www.zebra-med.com/)
 
 _victoria.mazo@zebra-med.com_
 
