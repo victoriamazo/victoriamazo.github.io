@@ -32,6 +32,8 @@ __________________________________________
 
 [Generative Adversarial Networks](https://www.meetup.com/PyData-Tel-Aviv/events/238184051/)
 
+GGO and Bronchiectasis Detection using Fully Convolutional Networks
+
 Object Detection [[slides](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/detection.pptx)]
 
 A Shallow Introduction To Deep Learning [[slides](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/intro.pptx)]
