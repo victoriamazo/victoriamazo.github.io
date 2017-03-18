@@ -39,7 +39,7 @@ Submitted to MICCAI (2017)
 
 _Physics_
 
-[V. Mazo, E. Shimshoni , C.-W. Huang, S. Carr and H.A. Fertig "Helical quantum Hall edge modes in bilayer graphene: a realization of quantum spin-ladders", Physica Scripta, Vol. 2015, T165 (2015)](http://iopscience.iop.org/article/10.1088/0031-8949/2015/T165/014019/meta;jsessionid=419E8011ABB941DFC13C75476A38EF25.c1)  [[pdf](https://github.com/victoriamazo/Helical_quantum_Hall_edge_modes_ in_bilayer_graphenes.pdf)]
+[V. Mazo, E. Shimshoni , C.-W. Huang, S. Carr and H.A. Fertig "Helical quantum Hall edge modes in bilayer graphene: a realization of quantum spin-ladders", Physica Scripta, Vol. 2015, T165 (2015)](http://iopscience.iop.org/article/10.1088/0031-8949/2015/T165/014019/meta;jsessionid=419E8011ABB941DFC13C75476A38EF25.c1)  [[pdf](https://github.com/victoriamazo/Helical_quantum_Hall_edge_modes_in_bilayer_graphenes.pdf)]
 
 [V. Mazo, C.-W. Huang, E. Shimshoni, S. Carr and H.A. Fertig "Superfluid-insulator transition of quantum Hall domain walls in bilayer graphene", Phys. Rev. B 89, 121411 (2014)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.89.121411)
 
