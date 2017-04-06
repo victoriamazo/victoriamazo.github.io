@@ -30,7 +30,7 @@ __________________________________________
 
 ### Talks:
 
-[Generative Adversarial Networks](https://www.meetup.com/PyData-Tel-Aviv/events/238184051/)
+[Generative Adversarial Networks](https://www.meetup.com/PyData-Tel-Aviv/events/238184051/) [[slides](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/GANs.pptx)]
 
 GGO and Bronchiectasis Detection using Fully Convolutional Networks
 
