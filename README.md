@@ -32,7 +32,7 @@ __________________________________________
 
 ### Talks:
 
-[Generative Adversarial Networks](https://www.meetup.com/PyData-Tel-Aviv/events/238184051/) [[slides](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/GANs.pptx)][[video](https://youtu.be/g5YZjn7O7aQ)]
+[Generative Adversarial Networks](https://www.meetup.com/PyData-Tel-Aviv/events/238184051/) [[slides](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/GANs.pptx)] [[video](https://youtu.be/g5YZjn7O7aQ)]
 
 GGO and Bronchiectasis Detection using Fully Convolutional Networks [[slides](https://github.com/victoriamazo/victoriamazo.github.io/blob/master/17.03.09%20-%20GGO%20and%20Bronchiectasis%20Detection%20using%20Fully%20Connected%20Networks%20-%20Copy.pptx)]
 
@@ -49,7 +49,7 @@ _Deep Learning_
 
 [R. Shadmi, V. Mazo, O. Bregman-Amitai and E. Elnekave 
 “Fully-convolutional deep-learning based system for coronary calcium score prediction from non-contrast chest CT”,
-ISBI (2018)](https://ieeexplore.ieee.org/document/8363515)[[pdf](https://github.com/victoriamazo/victoriamazo.github.io/blob/master/ISBI18_isbi2018_final.pdf)]
+ISBI (2018)](https://ieeexplore.ieee.org/document/8363515) [[pdf](https://github.com/victoriamazo/victoriamazo.github.io/blob/master/ISBI18_isbi2018_final.pdf)]
 
 V. Mazo, I. Tamir, E. Toledano and E. Elnekave
 "Recurrent Fully Convolutional DenseNet for Bronchiectasis Detection in CT Imaging",
