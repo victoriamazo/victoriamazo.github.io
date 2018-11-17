@@ -34,7 +34,7 @@ __________________________________________
 
 [Generative Adversarial Networks](https://www.meetup.com/PyData-Tel-Aviv/events/238184051/) [[slides](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/GANs.pptx)][[video](https://youtu.be/g5YZjn7O7aQ)]
 
-GGO and Bronchiectasis Detection using Fully Convolutional Networks[[slides](https://github.com/victoriamazo/victoriamazo.github.io/blob/master/17.03.09%20-%20GGO%20and%20Bronchiectasis%20Detection%20using%20Fully%20Connected%20Networks%20-%20Copy.pptx)]
+GGO and Bronchiectasis Detection using Fully Convolutional Networks [[slides](https://github.com/victoriamazo/victoriamazo.github.io/blob/master/17.03.09%20-%20GGO%20and%20Bronchiectasis%20Detection%20using%20Fully%20Connected%20Networks%20-%20Copy.pptx)]
 
 Object Detection [[slides](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/detection.pptx)]
 
