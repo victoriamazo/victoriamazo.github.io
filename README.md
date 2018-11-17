@@ -25,7 +25,7 @@ __________________________________________
 
 ### Conferences:
 
-[Deep Learning Summer School in Motreal (2017)](https://mila.quebec/en/cours/deep-learning-summer-school-2017/) 
+[Deep Learning Summer School in Montreal (2017)](https://mila.quebec/en/cours/deep-learning-summer-school-2017/) 
 __________________________________________
 
 ### Talks:
