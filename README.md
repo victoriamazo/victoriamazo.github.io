@@ -21,7 +21,11 @@ I hold PhD, M.Sc. and B.Sc. degrees in Physics and M.Sc. in Financial Mathematic
 _Research interests_: semantic segmentation, generative models, autonomious driving, augmented reality, biologically plausible modelling of brain 
 
 
+__________________________________________
 
+### Conferences:
+
+[Deep Learning Summer School in Motreal (2017)](https://mila.quebec/en/cours/deep-learning-summer-school-2017/) 
 __________________________________________
 
 ### Talks:
