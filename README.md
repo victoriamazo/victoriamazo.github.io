@@ -4,13 +4,9 @@
 
 **Deep Learning Researcher**
 
-[**Zebra Medical Vision**](https://www.zebra-med.com/)
+_victoria.mazo@gmail.com_
 
-Shafaim, Israel
-
-_victoria.mazo@zebra-med.com_
-
-[[CV](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/CV - Victoria Mazo.pdf)]  [[LinkedIn](https://www.linkedin.com/in/victoria-mazo-phd-72801b15/)]
+[[CV](https://github.com/victoriamazo/victoriamazo.github.io/blob/master/18.11.17_CV%20-%20Victoria%20Mazo.doc)]  [[LinkedIn](https://www.linkedin.com/in/victoria-mazo-phd-72801b15/)]
 
 
 
@@ -51,11 +47,11 @@ ISBI (2018)](https://ieeexplore.ieee.org/document/8363515)[[pdf](https://github.
 
 V. Mazo, I. Tamir, E. Toledano and E. Elnekave
 "Recurrent Fully Convolutional DenseNet for Bronchiectasis Detection in CT Imaging",
-Submitted to ICML (2017) [[abstract](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/Bronchiectasis.pdf)] 
+Submitted to ICML (2017) [[pdf](https://github.com/victoriamazo/victoriamazo.github.io/blob/master/2017.02.23_Mazo%20-%20Recurrent%20Fully%20Convolutional%20DenseNet%20for%20Bronchiectasis%20Detection%20in%20CT%20Imaging.pdf)] 
 
 V. Mazo, I. Tamir, E. Toledano and E. Elnekave
 "Ground Glass Opacity Detection Using Fully Convolutional Neural Networks",
-Submitted to MICCAI (2017) [[abstract](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/GGO.pdf)] 
+Submitted to MICCAI (2017) [[pdf](https://github.com/victoriamazo/victoriamazo.github.io/blob/master/2017.02.23_Mazo%20-%20Ground%20Glass%20Opacity%20Detection%20Using%20Fully%20Convolutional%20Neural%20Networks.pdf)] 
 
 _Physics_
 
