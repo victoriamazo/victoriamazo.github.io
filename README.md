@@ -45,13 +45,17 @@ __________________________________________
 
 _Deep Learning_
 
+[R. Shadmi, V. Mazo, O. Bregman-Amitai and E. Elnekave 
+“Fully-convolutional deep-learning based system for coronary calcium score prediction from non-contrast chest CT”,
+ISBI (2018)](https://ieeexplore.ieee.org/document/8363515)[[pdf](https://github.com/victoriamazo/victoriamazo.github.io/blob/master/ISBI18_isbi2018_final.pdf)]
+
 V. Mazo, I. Tamir, E. Toledano and E. Elnekave
 "Recurrent Fully Convolutional DenseNet for Bronchiectasis Detection in CT Imaging",
-Submitted to ICML (2017) [[abstract](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/GGO.pdf)] 
+Submitted to ICML (2017) [[abstract](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/Bronchiectasis.pdf)] 
 
 V. Mazo, I. Tamir, E. Toledano and E. Elnekave
 "Ground Glass Opacity Detection Using Fully Convolutional Neural Networks",
-Submitted to MICCAI (2017) [[abstract](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/Bronchiectasis.pdf)] 
+Submitted to MICCAI (2017) [[abstract](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/GGO.pdf)] 
 
 _Physics_
 
