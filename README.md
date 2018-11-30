@@ -14,11 +14,12 @@ __________________________________________
 
 
 
-I develop applications for detection of pathologies in medical images using Deep Learning technologies. My current research focus involves Semantic Segmentation and Generative Adversarial Networks. Previously I developed and implemented Face Liveness Detection, Image Captioning, Semantic Similarity and Sentiment Analysis. 
+A highly enthusiastic Deep Learning researcher with a Theoretical Physics PhD. Over 3 years of experience in Image Classification, Semantic Segmentation, Object Detection, Camera Pose Estimation, GANs and NLP, developing and implementing models and enhancing performance. 
+Proficient in PyTorch, TensorFlow, Keras, Caffe and in programming languages such as Python, Matlab and C++.
 
 I hold PhD, M.Sc. and B.Sc. degrees in Physics and M.Sc. in Financial Mathematics.
 
-_Research interests_: semantic segmentation, generative models, autonomious driving, augmented reality, biologically plausible modelling of brain 
+_Research interests_: SLAM, semantic segmentation, generative models, autonomious driving, biologically plausible modelling of brain 
 
 
 __________________________________________
