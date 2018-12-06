@@ -17,7 +17,7 @@ __________________________________________
 A highly enthusiastic Deep Learning researcher with a Theoretical Physics PhD. Over 3 years of experience in Image Classification, Semantic Segmentation, Object Detection, Camera Pose Estimation, GANs and NLP, developing and implementing models and enhancing performance. 
 Proficient in PyTorch, TensorFlow, Keras, Caffe and in programming languages such as Python, Matlab and C++.
 
-I hold PhD, M.Sc. and B.Sc. degrees in Physics and M.Sc. in Financial Mathematics.
+I hold a B.Sc., M.Sc. and PhD degrees in Physics and a M.Sc. in Financial Mathematics.
 
 _Research interests_: SLAM, semantic segmentation, generative models, autonomious driving, biologically plausible modelling of brain 
 
