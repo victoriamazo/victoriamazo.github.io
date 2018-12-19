@@ -41,7 +41,11 @@ Object Detection [[slides](https://github.com/victoriamazo/victoriamazo.github.i
 
 A Shallow Introduction To Deep Learning [[slides](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/intro.pptx)]
 
+__________________________________________
 
+### Open sources:
+[Population Based Training](https://github.com/victoriamazo/pbt)
+Implementation of the paper Jaderberg et al. "Population Based Training of Neural Networks" (DeepMind)
 __________________________________________
 
 ### Papers:
