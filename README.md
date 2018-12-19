@@ -9,7 +9,6 @@ _victoria.mazo@gmail.com_
 [[CV](https://github.com/victoriamazo/victoriamazo.github.io/blob/master/18.11.17_CV%20-%20Victoria%20Mazo.doc)]  [[LinkedIn](https://www.linkedin.com/in/victoria-mazo-phd-72801b15/)]
 
 
-
 __________________________________________
 
 
@@ -21,6 +20,13 @@ I hold a B.Sc., M.Sc. and PhD degrees in Physics and a M.Sc. in Financial Mathem
 
 _Research interests_: SLAM, semantic segmentation, generative models, autonomious driving, biologically plausible modelling of brain 
 
+__________________________________________
+
+### Open sources:
+
+[Population Based Training](https://github.com/victoriamazo/pbt)
+
+Implementation of the paper Jaderberg et al. "Population Based Training of Neural Networks" (DeepMind)
 
 __________________________________________
 
@@ -41,11 +47,6 @@ Object Detection [[slides](https://github.com/victoriamazo/victoriamazo.github.i
 
 A Shallow Introduction To Deep Learning [[slides](https://github.com/victoriamazo/victoriamazo.github.io/raw/master/intro.pptx)]
 
-__________________________________________
-
-### Open sources:
-[Population Based Training](https://github.com/victoriamazo/pbt)
-Implementation of the paper Jaderberg et al. "Population Based Training of Neural Networks" (DeepMind)
 __________________________________________
 
 ### Papers:
