@@ -24,9 +24,7 @@ __________________________________________
 
 ### Open sources:
 
-[Population Based Training](https://github.com/victoriamazo/pbt)
-
-Implementation of the paper Jaderberg et al. "Population Based Training of Neural Networks" (DeepMind)
+[Population Based Training](https://github.com/victoriamazo/pbt) - implementation of the paper Jaderberg et al. "Population Based Training of Neural Networks" (DeepMind)
 
 __________________________________________
 
