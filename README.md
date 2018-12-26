@@ -26,6 +26,8 @@ __________________________________________
 
 [Population Based Training](https://github.com/victoriamazo/pbt) - implementation of the paper Jaderberg et al. "Population Based Training of Neural Networks" (DeepMind)
 
+[Depth Regression](https://github.com/victoriamazo/depth_regression) - mocular/stereo depth estimation with a regression network (KITTY dataset)
+
 __________________________________________
 
 ### Conferences:
