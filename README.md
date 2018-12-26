@@ -18,7 +18,7 @@ Proficient in PyTorch, TensorFlow, Keras, Caffe and in programming languages suc
 
 I hold a B.Sc., M.Sc. and PhD degrees in Physics and a M.Sc. in Financial Mathematics.
 
-_Research interests_: SLAM, depth and optical flow estimation, semantic segmentation, generative models, autonomious driving, biologically plausible modelling of brain 
+_Research interests_: SLAM, Depth and Optical Flow estimation, Semantic Segmentation, Generative Models, Autonomious Driving, Robotics, biologically plausible modelling of brain 
 
 __________________________________________
 
