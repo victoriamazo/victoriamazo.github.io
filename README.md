@@ -13,7 +13,7 @@ __________________________________________
 
 
 
-A highly enthusiastic Deep Learning researcher with a Theoretical Physics PhD. Over 3 years of experience in Image Classification, Semantic Segmentation, Object Detection, Camera Pose Estimation, GANs and NLP, developing and implementing models and enhancing performance. 
+A highly enthusiastic Deep Learning researcher with a Theoretical Physics PhD. Over 4 years of experience in Image Classification, Semantic Segmentation, Object Detection, Camera Pose Estimation, Depth Estimation, Human Pose Estimation, GANs and NLP, developing and implementing models and enhancing performance. 
 Proficient in PyTorch, TensorFlow, Keras, Caffe and in programming languages such as Python, Matlab and C++.
 
 I hold a B.Sc., M.Sc. and PhD degrees in Physics and a M.Sc. in Financial Mathematics.
@@ -30,10 +30,14 @@ __________________________________________
 
 __________________________________________
 
+### Blogs:
+[3D Human Pose Estimation](https://medium.com/@victoriamazo/3d-human-pose-estimation-ce1259979306)
+
+__________________________________________
+
 ### Conferences:
 
 [Deep Learning Summer School in Montreal (2017)](https://mila.quebec/en/cours/deep-learning-summer-school-2017/) 
-
 
 __________________________________________
 
